@@ -1,0 +1,14 @@
+{
+    "debug":true,
+    "loglevel": "debug",
+    "logfile": "/apps/logs/mempool/app.log",
+    "role": "",
+    "serveraddr": "xxx:port",
+    "testline": int,
+    "rpcaddr":  "",
+    "rpcport": "",
+    "http": {
+       "enabled": true,
+       "listen": "0.0.0.0:6061"
+    }
+}
